@@ -7,9 +7,6 @@ To significantly reduce the false-positive cases, background images are generate
 
 Due to the nature small size of pedestrian light, full resolution is applied while not downsampling.
 
-Access the dataset through the following link.
-https://drive.google.com/drive/folders/1r2gBo-SfOJR1yuG2DfD1oqBuVOhFkdm4?usp=sharing
-
 ## Sample results in real city environment
 
 <img src="https://github.com/rizzojr01/Cross-Safe/blob/main/src/Sample_1.png" width="633" >
